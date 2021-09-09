@@ -1,2 +1,9 @@
-# patch19
-Info update patch 1.9 
+# Apa yang baru?
+```
+> Update Map hd 
+> Support Hdr
+> Fix Tombols
+> Ui
+> Fix bug Connect Server
+> Dll
+```
